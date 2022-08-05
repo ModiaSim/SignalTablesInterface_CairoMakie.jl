@@ -1,7 +1,7 @@
 name = "SignalTablesInterface_CairoMakie"
 uuid = "9a677d73-819a-4685-8db0-bdf9b06384c4"
 authors = ["Martin.Otter@dlr.de <Martin.Otter@dlr.de>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
@@ -18,7 +18,7 @@ Colors = "0.12, 0.11, 0.10"
 DataFrames = "1, 0.22, 0.21, 0.20, 0.19"
 Measurements = "2"
 MonteCarloMeasurements = "1, 0.10"
-SignalTables = "0.3"
+SignalTables = "0.4, 0.3"
 Unitful = "1"
 julia = "1.7"
 
