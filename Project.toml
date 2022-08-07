@@ -1,7 +1,7 @@
 name = "SignalTablesInterface_CairoMakie"
 uuid = "9a677d73-819a-4685-8db0-bdf9b06384c4"
 authors = ["Martin.Otter@dlr.de <Martin.Otter@dlr.de>"]
-version = "0.1.1"
+version = "0.1.2"
 
 [deps]
 CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
